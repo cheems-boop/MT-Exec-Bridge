@@ -122,6 +122,8 @@ aarch64-linux-android24-clang -O2 -o bin/execd execd.c
 > **最小权限建议**：只放行 `/data` 即可满足本模块全部需求，其余路径保持默认禁止。
 > 注意：MT 自身数据目录（如 `/data/data/bin.mt.plus`）受策略永久保护，无法放行。
 
+5. 给api发告知信息, 信息请看./docs/ai-briefing.md
+
 ---
 
 ## 使用指南
