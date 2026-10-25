@@ -1,0 +1,6 @@
+id=mt_exec_bridge
+name=MT Exec Bridge
+version=v2.1
+versionCode=3
+author=GLM (Z.ai)
+description=root命令桥：写文件即以root执行。任务队列/超时看门狗/8MB上限/异步任务/审计日志/单实例锁/看门狗自愈。
